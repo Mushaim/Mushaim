@@ -6,7 +6,7 @@ Multi-agent LLM systems, automation pipelines, and full-stack products — shipp
 </p>
 
 <p align="center">
-  <a href="https://portfolio-mushaim-s-projects.vercel.app"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://portfolio-mushaim-s-projects.vercel.app/?utm_source=github&utm_medium=readme&utm_campaign=github-profile"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/mushaim-khan-a1223a259"><b>💼 LinkedIn</b></a>
 </p>
 
